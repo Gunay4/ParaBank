@@ -1,4 +1,4 @@
-# Techno Study Agile Software Testing Project
+# Parabank Agile Software Testing Project
 
 ## Project Description
 Parabank is a virtual banking application used to simulate and test various financial operations. While it’s not a real financial institution, it can be utilized as though it were, providing a realistic environment for software testing purposes.
